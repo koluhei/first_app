@@ -1,0 +1,29 @@
+.post{
+  border: 1px solid;
+  width: 40%;
+  margin-top: 30px;
+}
+
+.post-date{
+  font-size: 10px;
+  color: gray;
+}
+
+header{
+  height: 60px;
+  background-color: rgb(211, 233, 225);
+}
+
+.top{
+  height: 100%;
+background-color: whitesmoke;
+}
+.all{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: aliceblue;
+}
+.main_content{
+width: 60vw;
+}
